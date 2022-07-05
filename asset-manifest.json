@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/pingzh.github.io/static/js/app.3bee27f5.chunk.js",
+    "app.js.map": "/pingzh.github.io/static/js/app.3bee27f5.chunk.js.map",
+    "runtime~app.js": "/pingzh.github.io/static/js/runtime~app.13a57c85.js",
+    "runtime~app.js.map": "/pingzh.github.io/static/js/runtime~app.13a57c85.js.map",
+    "static/js/2.c1793783.chunk.js": "/pingzh.github.io/static/js/2.c1793783.chunk.js",
+    "static/js/2.c1793783.chunk.js.map": "/pingzh.github.io/static/js/2.c1793783.chunk.js.map",
+    "favicon-16.png": "/pingzh.github.io/favicon-16.png",
+    "favicon-32.png": "/pingzh.github.io/favicon-32.png",
+    "favicon.ico": "/pingzh.github.io/favicon.ico",
+    "index.html": "/pingzh.github.io/index.html",
+    "manifest.json": "/pingzh.github.io/manifest.json",
+    "serve.json": "/pingzh.github.io/serve.json",
+    "static/js/2.c1793783.chunk.js.LICENSE.txt": "/pingzh.github.io/static/js/2.c1793783.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.13a57c85.js",
+    "static/js/2.c1793783.chunk.js",
+    "static/js/app.3bee27f5.chunk.js"
+  ]
+}
