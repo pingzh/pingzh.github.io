@@ -69,7 +69,7 @@ codeLineNumbers = false
 enableMathNotation = false
 
 # directory(s) where your articles are located
-mainSections = ["post"] # see config details here https://gohugo.io/functions/where/#mainsections
+mainSections = ["post", "books"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # Label Non inline images on an article body
 figurePositionShow = false # toggle on or off globally
@@ -93,7 +93,7 @@ footerLogo = "images/building.png"
 
 # Customize Sidebar Disclaimer Text
 # sidebardisclaimer = true
-# disclaimerText = "The opinions expressed on this site are my own personal opinions and do not represent my employer’s view in any way."
+disclaimerText = "The opinions expressed on this site are my own personal opinions and do not represent my employer’s view in any way."
 
 # Text for the languages menu.
 languageMenuName = "🌐"
