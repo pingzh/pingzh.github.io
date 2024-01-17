@@ -4,8 +4,8 @@
   weight = -110
 
 [[main]]
-  name = "SPX0dte"
-  url = "spx/"
+  name = "Books"
+  url = "books/"
   weight = -109
 #
 # [[main]]
