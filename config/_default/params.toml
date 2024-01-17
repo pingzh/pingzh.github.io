@@ -2,9 +2,11 @@
 enableSearch = true
 
 # socials
-twitter = "@janedoe"
-largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "Technologist, perpetual student, teacher, continual incremental improvement."
+# twitter = "@janedoe"
+# largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
+
+introDescription = "Software engineer, Apache Airflow committer, options trader loves trading SPX 0dte"
+
 # introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
 # description = "A theme based on VMware's Clarity Design System for publishing technical blogs with Hugo." # Set your site's meta tag (SEO) description here. Alternatively set this description in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
 # keywords = ["design", "clarity", "hugo theme"] # Set your site's meta tag (SEO) keywords here. Alternatively set these in your home page content file e.g. content/_index.md. Whatever is set in the latter will take precedence.
@@ -110,7 +112,7 @@ languageMenuName = "🌐"
 # utterancesIssueTerm = "pathname" # Default: pathname
 
 # Maximum number of recent posts. (default: 8)
-# numberOfRecentPosts = 8
+numberOfRecentPosts = 8
 
 # Maximum number of featured posts. (default: 8)
 # numberOfFeaturedPosts = 8
