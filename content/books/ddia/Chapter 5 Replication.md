@@ -7,7 +7,7 @@ tags = [
     "ddia",
     "system"
 ]
-series = ["ddia"]
+categories = ["software"]
 +++
 
 
