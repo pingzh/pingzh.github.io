@@ -1,5 +1,5 @@
 +++
 aliases = ["spx"]
-title = "Demo"
+title = "SPX 0DTE Trading"
 author = "Ping Zhang"
 +++
