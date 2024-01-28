@@ -115,7 +115,7 @@ languageMenuName = "🌐"
 numberOfRecentPosts = 8
 
 # Maximum number of featured posts. (default: 8)
-# numberOfFeaturedPosts = 8
+numberOfFeaturedPosts = 2
 
 # Pin featured posts in list.
 # pinFeatured = true
