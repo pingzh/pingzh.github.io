@@ -1,6 +1,6 @@
 +++
 author = "Ping Zhang"
-title =  "SPX 0dte daily trading p&l"
+title =  "SPX 0dte daily and monthly trading p&l"
 date = "2024-01-01"
 description = "SPX 0dte trading log"
 tags = [
@@ -10,6 +10,12 @@ tags = [
 categories = ["trading"]
 featured = true
 +++
+
+# Monthly P&L
+
+| Month      | P&L  |
+|------------|------|
+| 2024-01    | $1850|
 
 # Daily P&L
 
